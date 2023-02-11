@@ -6,6 +6,7 @@ No terminal do Kali, começo com o comando *sudo su* para utilizar o terminal co
 
 
 Em seguida utilizo a ferramenta setoolkit. Uma ferramenta utilizada para ataques de engenharia social que ja vem instalada previamente no Kali. Pode ser chamada com o comando *setoolkit*, logo após, abrindo uma interface com varias opções:
+
 ![options](https://user-images.githubusercontent.com/100307346/218282215-536701a4-6ede-42b2-9434-9815d1229294.png)
 
 
