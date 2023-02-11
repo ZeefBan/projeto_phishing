@@ -41,4 +41,4 @@ Terminal com as credenciais roubadas:
 
 
 
-Conclusão, após esse processo foi possivel ver o quão simples pode ser criar um site malicioso, portanto SEMPRE TOME CUIDADO COM LINKS SUSPEITOS.
+Conclusão, após esse processo foi possivel ver o quão simples pode ser criar um site malicioso, portanto, SEMPRE TOME CUIDADO COM LINKS SUSPEITOS.
